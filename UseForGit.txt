@@ -1,0 +1,11 @@
+git checkout
+
+파일 추가
+
+git add .
+
+git commit -am "commit"
+
+git remote add name https://github.com/TGJIGS/UseForGit.git
+
+git push -u name master
