@@ -1,11 +1,11 @@
-git checkout
+$ git checkout
 
-파일 추가
+file add
 
-git add .
+$ git add .
 
-git commit -am "commit"
+$ git commit -am "commit"
 
-git remote add name https://github.com/TGJIGS/UseForGit.git
+$ git remote add name https://github.com/TGJIGS/UseForGit.git
 
-git push -u name master
+$ git push -u name master
