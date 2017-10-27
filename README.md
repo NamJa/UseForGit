@@ -7,9 +7,9 @@ https://git-scm.com/downloads
 
 설치를 합니다.
 
-깃허브 가입을 합니 다
+깃허브 가입을 합니다
 
-
+'name'은 아무 이름으로 지정
 
 $ git checkout
 
@@ -19,6 +19,6 @@ $ git add .
 
 $ git commit -am "commit"
 
-$ git remote add name https://github.com/TGJIGS/UseForGit.git
+$ git remote add 'name' https://github.com/TGJIGS/UseForGit.git
 
-$ git push -u name master
+$ git push -u 'name' master
